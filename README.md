@@ -27,8 +27,8 @@ If macOS/Linux, change `python` to `python3` in the commands below.
 
 ```shell
 git --version
-python --version
-python -m pip install --upgrade pip wheel
+python3 --version
+python3 -m pip install --upgrade pip wheel
 ```
 
 ## Execute Utility Script (Diagnostics)
