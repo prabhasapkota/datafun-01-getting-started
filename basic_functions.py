@@ -48,7 +48,7 @@ import webbrowser
 
 
 # Declare Variables
-url = "https://docs.python.org/3/library/functions.html"
+url = "https://github.com/prabhasapkota/datafun-01-getting-started"
 number_list = [1, 2, 3, 4, 5]
 
 # Use built-in functions like len(), min(), max()
@@ -68,7 +68,7 @@ logger.info(f"max(number_list) = {largest}")
 print()
 
 # Greet the user
-print("Greetings!")
+print("Hello!")
 
 # Get the user's name and greet them
 name = input("What's your name? (type your name and hit enter): ")
@@ -78,18 +78,21 @@ print()
 logger.info(f"message = {message}")
 
 # Ask the user if they want to see built-in functions
-response = input("Would you like to see all the built-in functions? (y/n) ").lower()
+response = input("Would you like to see my updated GitHub repo ? (y/n) ").lower()
 logger.info(f"response = {response}")
 print(f"You said {response}!")
-print(f"{hint}")
 
 if response == "y":
     print()
-    print("Let's open a web page. Python makes it easy!")
+    print("Let's open my updated GitHub repo. Python makes it easy and fun!")
     webbrowser.open_new(url)
     print()
-    print("There's a lot of built-in functions ready to use!")
-    print("We'll learn more about them later.")
+    print("We'll learn more about GitHub later.")
+    print()
+
+if response == "n":
+    print()
+    print("No problem ! You have a good day.")
     print()
 
 # TODO: Run with different responses n, y, other...
