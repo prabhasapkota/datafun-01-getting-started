@@ -1,7 +1,7 @@
 """
 Purpose: Illustrate basic expressions and operators in Python.
 
-Author: Denise Case
+Author: Prabha Sapkota
 
 This file name is:   basic_expressions.py
 This module name is: basic_expressions
@@ -40,22 +40,28 @@ logger, logname = setup_logger(__file__)
 # TODO: Try changing the values of these variables
 # TODO: Add some new variables (like rectangle_length and rectangle_width)
 #       and calculate the area of a rectangle (rectangle_area = rectangle_length * rectangle_width)
-triangle_base = 10
-triangle_height = 5
-num1 = 50
-num2 = 20
-float_num1 = 1.1
-float_num2 = 2.2
+triangle_base = 20
+triangle_height = 8
+parallelogram_base = 10
+parallelogram_height = 12
+num1 = 55
+num2 = 22
+float_num1 = 3.1
+float_num2 = 5.2
 float_num3 = 3.3
 
 # Basic Arithmetic Operations
 triangle_area = triangle_base * triangle_height / 2
+parallelogram_area = parallelogram_base * parallelogram_height
 total_sum = float_num1 + float_num2
 difference = num1 - num2
 
 # Log Information
 logger.info(
     f"Given base={triangle_base} and height={triangle_height}, triangle area = {triangle_area}"
+)
+logger.info(
+    f"Given base={parallelogram_base} and height={parallelogram_height}, parallelogram area = {parallelogram_area}"
 )
 logger.info(
     f"Given float_num1={float_num1} and float_num2={float_num2}, sum = {total_sum}"
