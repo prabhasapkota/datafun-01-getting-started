@@ -44,7 +44,7 @@ With your repo folder open in VS Code:
 1. If macOS/Linux, change `python` to `python3` below.
 
 ```shell
-python util_about.py
+python3 util_about.py
 ```
 ---
 
@@ -61,12 +61,11 @@ Instead, try to figure out what each file is doing.
 1. On macOS/Linux, change `python` to `python3` in the commands below.
 
 ```shell
-python acquainted.py
-python basic_expressions.py
-python basic_functions.py
-python circle_calc.py
-python data_io.py
-python easy_stats.py
+python3 acquainted.py
+python3 basic_expressions.py
+python3 basic_functions.py
+python3 circle_calc.py
+python3 easy_stats.py
 ```
 
 Helpful hint: Hit the **up arrow** in the terminal to get the last command. Edit as needed and hit return.
