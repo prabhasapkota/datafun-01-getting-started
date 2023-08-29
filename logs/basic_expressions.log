@@ -1,0 +1,11 @@
+2023-08-24 09:33:12,471.basic_expressions.INFO ==================================================
+2023-08-24 09:33:12,471.basic_expressions.INFO Today is 2023-08-24 at 09:33 AM
+2023-08-24 09:33:12,471.basic_expressions.INFO Running on: posix Darwin 21.1.0
+2023-08-24 09:33:12,471.basic_expressions.INFO Python version:  3.11.4
+2023-08-24 09:33:12,471.basic_expressions.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-08-24 09:33:12,471.basic_expressions.INFO Working dir: /Users/prabha/Documents/CSIS-44608/datafun-01-getting-started
+2023-08-24 09:33:12,471.basic_expressions.INFO ==================================================
+2023-08-24 09:33:12,471.basic_expressions.INFO Given base=20 and height=8, triangle area = 80.0
+2023-08-24 09:33:12,472.basic_expressions.INFO Given base=10 and height=12, parallelogram area = 120
+2023-08-24 09:33:12,472.basic_expressions.INFO Given float_num1=3.1 and float_num2=5.2, sum = 8.3
+2023-08-24 09:33:12,472.basic_expressions.INFO Given num1=55 and num2=22, the difference = 33

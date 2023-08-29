@@ -1,0 +1,18 @@
+2023-08-24 09:22:43,807.acquainted.INFO ==================================================
+2023-08-24 09:22:43,807.acquainted.INFO Today is 2023-08-24 at 09:22 AM
+2023-08-24 09:22:43,807.acquainted.INFO Running on: posix Darwin 21.1.0
+2023-08-24 09:22:43,807.acquainted.INFO Python version:  3.11.4
+2023-08-24 09:22:43,807.acquainted.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-08-24 09:22:43,808.acquainted.INFO Working dir: /Users/prabha/Documents/CSIS-44608/datafun-01-getting-started
+2023-08-24 09:22:43,808.acquainted.INFO ==================================================
+2023-08-24 09:22:43,808.acquainted.INFO Name: Prabha Sapkota 
+2023-08-24 09:22:43,808.acquainted.INFO State: North Carolina
+2023-08-24 09:22:43,808.acquainted.INFO Country: USA
+2023-08-24 09:22:43,808.acquainted.INFO Pet count: 4
+2023-08-24 09:22:43,808.acquainted.INFO Double the pet count: 8
+2023-08-24 09:22:43,808.acquainted.INFO Skill count: 30
+2023-08-24 09:22:43,808.acquainted.INFO Temperature: 78.5
+2023-08-24 09:22:43,808.acquainted.INFO Pet weight: 10.5
+2023-08-24 09:22:43,808.acquainted.INFO Has dog: True
+2023-08-24 09:22:43,808.acquainted.INFO Likes analytics: True
+2023-08-24 09:22:43,808.acquainted.INFO Likes Python: True

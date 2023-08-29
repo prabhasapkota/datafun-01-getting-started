@@ -1,0 +1,11 @@
+2023-08-24 09:58:10,699.circle_calc.INFO ==================================================
+2023-08-24 09:58:10,699.circle_calc.INFO Today is 2023-08-24 at 09:58 AM
+2023-08-24 09:58:10,699.circle_calc.INFO Running on: posix Darwin 21.1.0
+2023-08-24 09:58:10,699.circle_calc.INFO Python version:  3.11.4
+2023-08-24 09:58:10,699.circle_calc.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-08-24 09:58:10,699.circle_calc.INFO Working dir: /Users/prabha/Documents/CSIS-44608/datafun-01-getting-started
+2023-08-24 09:58:10,700.circle_calc.INFO ==================================================
+2023-08-24 09:58:12,761.circle_calc.INFO The area of a circle with radius 12.0 is 452.3893421169302.
+2023-08-24 09:58:12,762.circle_calc.INFO Eww... that's a lot of decimal places - tmi!
+2023-08-24 09:58:12,762.circle_calc.INFO The area of a circle with radius 12.0 is 452.39.
+2023-08-24 09:58:12,762.circle_calc.INFO Much better! (After you fix it.)

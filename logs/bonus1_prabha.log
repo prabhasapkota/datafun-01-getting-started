@@ -1,0 +1,11 @@
+2023-08-25 11:00:32,225.bonus1_prabha.INFO ==================================================
+2023-08-25 11:00:32,225.bonus1_prabha.INFO Today is 2023-08-25 at 11:00 AM
+2023-08-25 11:00:32,225.bonus1_prabha.INFO Running on: posix Darwin 21.1.0
+2023-08-25 11:00:32,225.bonus1_prabha.INFO Python version:  3.11.4
+2023-08-25 11:00:32,225.bonus1_prabha.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-08-25 11:00:32,226.bonus1_prabha.INFO Working dir: /Users/prabha/Documents/CSIS-44608/datafun-01-getting-started
+2023-08-25 11:00:32,226.bonus1_prabha.INFO ==================================================
+2023-08-25 11:00:43,461.bonus1_prabha.INFO The total leafnumbers is 18.
+2023-08-25 11:00:43,461.bonus1_prabha.INFO The average leafnumbers per plant is 1.0.
+2023-08-25 11:00:43,461.bonus1_prabha.INFO The lowest leafnumbers is 8.
+2023-08-25 11:00:43,461.bonus1_prabha.INFO The highedt leafnumbers is 10.
